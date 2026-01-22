@@ -140,9 +140,3 @@ langgraph dev
 ```
 
 ---
-
-## Tela de Testes
-
-Monitoramento de latência, custo, qualidade e rastreabilidade completa.
-
----
