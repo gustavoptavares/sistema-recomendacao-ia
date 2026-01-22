@@ -124,6 +124,13 @@ book-recommender-ai/
 └── README.md
 ```
 
+## 🚀 Como Executar
+
+1. Configure variáveis de ambiente
+2. 
+3. Iniciar Qdrant (opcional - funciona sem ele agora)
+4. Execute FastAPI
+5. Execute Streamlit
 ---
 
 ## 🚀 Como Executar
